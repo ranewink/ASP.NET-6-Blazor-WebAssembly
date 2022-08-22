@@ -1,0 +1,1 @@
+ASP.NET 6 Blazor Assembly Template，You can create projects through its template.
