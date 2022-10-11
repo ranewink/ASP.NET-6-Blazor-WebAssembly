@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/ASPNET-6-Blazor-WebAssembly/ASPNET6_BlazorWebAssembly.csproj": {}
+    "/home/tream/bobo/ASP.NET-6-Blazor-WebAssembly/ASPNET6_BlazorWebAssembly.csproj": {}
   },
   "projects": {
-    "/home/runner/ASPNET-6-Blazor-WebAssembly/ASPNET6_BlazorWebAssembly.csproj": {
+    "/home/tream/bobo/ASP.NET-6-Blazor-WebAssembly/ASPNET6_BlazorWebAssembly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/ASPNET-6-Blazor-WebAssembly/ASPNET6_BlazorWebAssembly.csproj",
+        "projectUniqueName": "/home/tream/bobo/ASP.NET-6-Blazor-WebAssembly/ASPNET6_BlazorWebAssembly.csproj",
         "projectName": "ASPNET6_BlazorWebAssembly",
-        "projectPath": "/home/runner/ASPNET-6-Blazor-WebAssembly/ASPNET6_BlazorWebAssembly.csproj",
-        "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/ASPNET-6-Blazor-WebAssembly/obj/",
+        "projectPath": "/home/tream/bobo/ASP.NET-6-Blazor-WebAssembly/ASPNET6_BlazorWebAssembly.csproj",
+        "packagesPath": "/home/tream/.nuget/packages/",
+        "outputPath": "/home/tream/bobo/ASP.NET-6-Blazor-WebAssembly/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/runner/.nuget/NuGet/NuGet.Config"
+          "/home/tream/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -58,14 +58,23 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
           "downloadDependencies": [
             {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.9, 6.0.9]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.9, 6.0.9]"
+            },
+            {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.0, 6.0.0]"
+              "version": "[6.0.9, 6.0.9]"
             }
           ],
           "frameworkReferences": {
@@ -73,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/nix/store/jsm5am5i2b2izvwzbw5h6lk3plvpkrlw-dotnet-sdk-6.0.100/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

@@ -11,49 +11,53 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = ASPNET6_BlazorWebAssembly
 build_property.RootNamespace = ASPNET6_BlazorWebAssembly
-build_property.ProjectDir = /home/runner/ASPNET-6-Blazor-WebAssembly/
+build_property.ProjectDir = /home/tream/bobo/ASP.NET-6-Blazor-WebAssembly/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/runner/ASPNET-6-Blazor-WebAssembly
+build_property.MSBuildProjectDirectory = /home/tream/bobo/ASP.NET-6-Blazor-WebAssembly
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/runner/ASPNET-6-Blazor-WebAssembly/App.razor]
+[/home/tream/bobo/ASP.NET-6-Blazor-WebAssembly/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/runner/ASPNET-6-Blazor-WebAssembly/Pages/BarChart.razor]
+[/home/tream/bobo/ASP.NET-6-Blazor-WebAssembly/Pages/BarChart.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQmFyQ2hhcnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/runner/ASPNET-6-Blazor-WebAssembly/Pages/Counter.razor]
+[/home/tream/bobo/ASP.NET-6-Blazor-WebAssembly/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/runner/ASPNET-6-Blazor-WebAssembly/Pages/Counter2.razor]
+[/home/tream/bobo/ASP.NET-6-Blazor-WebAssembly/Pages/Counter2.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlcjIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/runner/ASPNET-6-Blazor-WebAssembly/Pages/FetchData.razor]
+[/home/tream/bobo/ASP.NET-6-Blazor-WebAssembly/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/runner/ASPNET-6-Blazor-WebAssembly/Pages/Index.razor]
+[/home/tream/bobo/ASP.NET-6-Blazor-WebAssembly/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/runner/ASPNET-6-Blazor-WebAssembly/Shared/SurveyPrompt.razor]
+[/home/tream/bobo/ASP.NET-6-Blazor-WebAssembly/Pages/Todo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVG9kby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/tream/bobo/ASP.NET-6-Blazor-WebAssembly/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/runner/ASPNET-6-Blazor-WebAssembly/_Imports.razor]
+[/home/tream/bobo/ASP.NET-6-Blazor-WebAssembly/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/runner/ASPNET-6-Blazor-WebAssembly/Shared/MainLayout.razor]
+[/home/tream/bobo/ASP.NET-6-Blazor-WebAssembly/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-osreulreaf
 
-[/home/runner/ASPNET-6-Blazor-WebAssembly/Shared/NavMenu.razor]
+[/home/tream/bobo/ASP.NET-6-Blazor-WebAssembly/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-lr6v13unps
