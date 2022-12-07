@@ -223,39 +223,6 @@
         }
       },
       {
-        "HashCode": 291503313,
-        "Kind": "Components.Component",
-        "Name": "ASPNET6_BlazorWebAssembly.Pages.Index",
-        "AssemblyName": "ASPNET6_BlazorWebAssembly",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ASPNET6_BlazorWebAssembly.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 1587724610,
-        "Kind": "Components.Component",
-        "Name": "ASPNET6_BlazorWebAssembly.Pages.Index",
-        "AssemblyName": "ASPNET6_BlazorWebAssembly",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ASPNET6_BlazorWebAssembly.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ASPNET6_BlazorWebAssembly.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1892793726,
         "Kind": "Components.Component",
         "Name": "ASPNET6_BlazorWebAssembly.Pages.Counter2",
@@ -289,35 +256,35 @@
         }
       },
       {
-        "HashCode": -1692980391,
+        "HashCode": 291503313,
         "Kind": "Components.Component",
-        "Name": "ASPNET6_BlazorWebAssembly.Pages.FetchData",
+        "Name": "ASPNET6_BlazorWebAssembly.Pages.Index",
         "AssemblyName": "ASPNET6_BlazorWebAssembly",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "FetchData"
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ASPNET6_BlazorWebAssembly.Pages.FetchData"
+          "Common.TypeName": "ASPNET6_BlazorWebAssembly.Pages.Index"
         }
       },
       {
-        "HashCode": 395164265,
+        "HashCode": 1587724610,
         "Kind": "Components.Component",
-        "Name": "ASPNET6_BlazorWebAssembly.Pages.FetchData",
+        "Name": "ASPNET6_BlazorWebAssembly.Pages.Index",
         "AssemblyName": "ASPNET6_BlazorWebAssembly",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "ASPNET6_BlazorWebAssembly.Pages.FetchData"
+            "TagName": "ASPNET6_BlazorWebAssembly.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ASPNET6_BlazorWebAssembly.Pages.FetchData",
+          "Common.TypeName": "ASPNET6_BlazorWebAssembly.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -351,6 +318,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "ASPNET6_BlazorWebAssembly.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1692980391,
+        "Kind": "Components.Component",
+        "Name": "ASPNET6_BlazorWebAssembly.Pages.FetchData",
+        "AssemblyName": "ASPNET6_BlazorWebAssembly",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ASPNET6_BlazorWebAssembly.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 395164265,
+        "Kind": "Components.Component",
+        "Name": "ASPNET6_BlazorWebAssembly.Pages.FetchData",
+        "AssemblyName": "ASPNET6_BlazorWebAssembly",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ASPNET6_BlazorWebAssembly.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ASPNET6_BlazorWebAssembly.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
