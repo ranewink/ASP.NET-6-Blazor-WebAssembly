@@ -1,0 +1,29 @@
+.mountainback{
+    position: relative;
+    width: 100%;
+    height: 60vh;
+    background-image:url("../img/main_visual_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: left bottom;
+}
+.mountainfront{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 60vh;
+    background-image: url("../img/main_visual_mountain.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left bottom;
+    z-index: 99;
+}
+.headline{
+position: absolute;
+bottom: 20vh;
+left: 0;
+width: 100%;
+font-size: 30%;
+color: #ffffff;
+}

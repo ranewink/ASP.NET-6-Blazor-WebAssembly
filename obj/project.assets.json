@@ -2067,11 +2067,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/penguin/port/ASP.NET-6-Blazor-WebAssembly/ASPNET6_BlazorWebAssembly.csproj",
+      "projectUniqueName": "/home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly/ASPNET6_BlazorWebAssembly.csproj",
       "projectName": "ASPNET6_BlazorWebAssembly",
-      "projectPath": "/home/penguin/port/ASP.NET-6-Blazor-WebAssembly/ASPNET6_BlazorWebAssembly.csproj",
+      "projectPath": "/home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly/ASPNET6_BlazorWebAssembly.csproj",
       "packagesPath": "/home/penguin/.nuget/packages/",
-      "outputPath": "/home/penguin/port/ASP.NET-6-Blazor-WebAssembly/obj/",
+      "outputPath": "/home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/penguin/.nuget/NuGet/NuGet.Config"

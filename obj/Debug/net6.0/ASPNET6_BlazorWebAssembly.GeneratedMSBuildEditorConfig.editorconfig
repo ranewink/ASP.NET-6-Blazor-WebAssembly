@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = ASPNET6_BlazorWebAssembly
 build_property.RootNamespace = ASPNET6_BlazorWebAssembly
-build_property.ProjectDir = /home/penguin/port/ASP.NET-6-Blazor-WebAssembly/
+build_property.ProjectDir = /home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/penguin/port/ASP.NET-6-Blazor-WebAssembly
+build_property.MSBuildProjectDirectory = /home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/penguin/port/ASP.NET-6-Blazor-WebAssembly/App.razor]
+[/home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/penguin/port/ASP.NET-6-Blazor-WebAssembly/Pages/BarChart.razor]
+[/home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly/Pages/BarChart.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQmFyQ2hhcnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/penguin/port/ASP.NET-6-Blazor-WebAssembly/Pages/Counter.razor]
+[/home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/penguin/port/ASP.NET-6-Blazor-WebAssembly/Pages/Counter2.razor]
+[/home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly/Pages/Counter2.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlcjIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/penguin/port/ASP.NET-6-Blazor-WebAssembly/Pages/FetchData.razor]
+[/home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/penguin/port/ASP.NET-6-Blazor-WebAssembly/Pages/Index.razor]
+[/home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/penguin/port/ASP.NET-6-Blazor-WebAssembly/Pages/Portfolio.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUG9ydGZvbGlvLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/penguin/port/ASP.NET-6-Blazor-WebAssembly/Shared/NavMenu.razor]
+[/home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/penguin/port/ASP.NET-6-Blazor-WebAssembly/Shared/SurveyPrompt.razor]
+[/home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/penguin/port/ASP.NET-6-Blazor-WebAssembly/_Imports.razor]
+[/home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/penguin/port/ASP.NET-6-Blazor-WebAssembly/Shared/MainLayout.razor]
+[/home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly/Pages/Portfolio.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUG9ydGZvbGlvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-dyjhqc36er
+
+[/home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-osreulreaf

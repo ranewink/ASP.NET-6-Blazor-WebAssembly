@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "APiCljvrDF4U8NwESEhCGNHEMStVJ2tdspiYk4MzpFq9kZ7OyuSaVtGg9EW9yDe1AKOZS0diQ54062YnGxPV4w==",
+  "dgSpecHash": "ri0QUEdSq2n8GNhKtaUtM1DJ5xdThWl/G25Mt91jt5wRZ6YG8R8hrNi1Ip30v2moHx0o48dWFr6APvOjCNTHxw==",
   "success": true,
-  "projectFilePath": "/home/penguin/port/ASP.NET-6-Blazor-WebAssembly/ASPNET6_BlazorWebAssembly.csproj",
+  "projectFilePath": "/home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly/ASPNET6_BlazorWebAssembly.csproj",
   "expectedPackageFiles": [
     "/home/penguin/.nuget/packages/libsassbuilder/2.0.1/libsassbuilder.2.0.1.nupkg.sha512",
     "/home/penguin/.nuget/packages/microsoft.aspnetcore.authorization/6.0.0/microsoft.aspnetcore.authorization.6.0.0.nupkg.sha512",
