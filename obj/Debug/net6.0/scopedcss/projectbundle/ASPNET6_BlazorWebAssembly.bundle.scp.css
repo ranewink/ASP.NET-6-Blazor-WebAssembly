@@ -7,6 +7,8 @@
 
 main[b-osreulreaf] {
     flex: 1;
+    padding: 0;
+    margin: 0;
 }
 
 .sidebar[b-osreulreaf] {
@@ -78,68 +80,5 @@ main[b-osreulreaf] {
     .top-row[b-osreulreaf], article[b-osreulreaf] {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
-    }
-}
-/* /Shared/NavMenu.razor.rz.scp.css */
-.navbar-toggler[b-lr6v13unps] {
-    background-color: rgba(255, 255, 255, 0.1);
-}
-
-.top-row[b-lr6v13unps] {
-    height: 3.5rem;
-    background-color: rgba(0,0,0,0.4);
-}
-
-.navbar-brand[b-lr6v13unps] {
-    font-size: 1.1rem;
-}
-
-.oi[b-lr6v13unps] {
-    width: 2rem;
-    font-size: 1.1rem;
-    vertical-align: text-top;
-    top: -2px;
-}
-
-.nav-item[b-lr6v13unps] {
-    font-size: 0.9rem;
-    padding-bottom: 0.5rem;
-}
-
-    .nav-item:first-of-type[b-lr6v13unps] {
-        padding-top: 1rem;
-    }
-
-    .nav-item:last-of-type[b-lr6v13unps] {
-        padding-bottom: 1rem;
-    }
-
-    .nav-item[b-lr6v13unps]  a {
-        color: #d7d7d7;
-        border-radius: 4px;
-        height: 3rem;
-        display: flex;
-        align-items: center;
-        line-height: 3rem;
-    }
-
-.nav-item[b-lr6v13unps]  a.active {
-    background-color: rgba(255,255,255,0.25);
-    color: white;
-}
-
-.nav-item[b-lr6v13unps]  a:hover {
-    background-color: rgba(255,255,255,0.1);
-    color: white;
-}
-
-@media (min-width: 641px) {
-    .navbar-toggler[b-lr6v13unps] {
-        display: none;
-    }
-
-    .collapse[b-lr6v13unps] {
-        /* Never collapse the sidebar for wide screens */
-        display: block;
     }
 }
