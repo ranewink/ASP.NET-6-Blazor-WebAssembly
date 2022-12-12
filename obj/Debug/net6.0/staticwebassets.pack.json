@@ -1,6 +1,14 @@
 {
   "Files": [
     {
+      "Id": "/home/penguin/.nuget/packages/blazor3d/0.1.23/contentFiles/any/net6.0/wwwroot/js/bundle.js",
+      "PackagePath": "staticwebassets/js/bundle.js"
+    },
+    {
+      "Id": "/home/penguin/.nuget/packages/blazor3d/0.1.23/contentFiles/any/net6.0/wwwroot/js/bundle.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/js/bundle.js.LICENSE.txt"
+    },
+    {
       "Id": "/home/penguin/portfol/ASP.NET-6-Blazor-WebAssembly/bin/Debug/net6.0/wwwroot/_framework/blazor.webassembly.js",
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
     },
